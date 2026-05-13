@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="220" valign="top">
-  <img src="juuzou.png" width="200px"/>
+  <img src="juuzou.png" width="900px"/>
 </td>
 <td valign="top" padding="20">
   <br/>
@@ -11,13 +11,9 @@
 
   <br/>
 
-  *"you should enjoy the little detours.*
-  *that's where you'll find what matters."*
-  <sub>— ging freecss</sub>
-
-  <br/>
-
-  web · systems · ai · old internet · anime · manga
+  *"I don't know what's right anymore,*
+  *but I do know I don't want to forget this feeling."*
+  <sub>— juuzou suzuya</sub>
 
   <br/>
 
@@ -30,17 +26,10 @@
 
   <br/>
 
-  [linkedin](https://linkedin.com/in/yagoleviy3)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=8B1A3A)](https://linkedin.com/in/yagoleviy3)
 
   <br/>
   <sub>still learning. still building. that's the point.</sub>
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=y3levi&show_icons=true&theme=transparent&hide_border=true&title_color=8B1A3A&text_color=555555&icon_color=8B1A3A&hide=stars&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3levi&layout=compact&theme=transparent&hide_border=true&title_color=8B1A3A&text_color=555555&langs_count=5"/>
-</div>
