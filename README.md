@@ -7,7 +7,7 @@
   <br/>
 
   **Yago Levi :p**
-  software engineering student · full stack dev in progress
+  software engineering student · backend developer in progress
 
   <br/>
 
