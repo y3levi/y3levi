@@ -23,6 +23,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=8B1A3A)](https://linkedin.com/in/yagoleviy3)
  <br/>
   picly > anime art finder + image editor · [github.com/y3levi/picly](https://github.com/y3levi/picly)
+
   <sub>still learning. still building. that's the point.</sub>
 </td>
 </tr>
