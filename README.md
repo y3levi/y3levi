@@ -1,4 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border:none" cellspacing="0" cellpadding="20">
 <tr>
 <td width="220" valign="top">
   <img src="juuzou.png" width="900px"/>
@@ -6,7 +6,7 @@
 <td valign="top" padding="20">
   <br/>
 
-  **yago levi**
+  **Yago Levi :p**
   software engineering student · full stack dev in progress
 
   <br/>
@@ -22,7 +22,7 @@
 
   <br/>
 
-  picly — anime art finder + ai image editor · [github.com/y3levi/picly](https://github.com/y3levi/picly)
+  picly > anime art finder + image editor · [github.com/y3levi/picly](https://github.com/y3levi/picly)
 
   <br/>
 
