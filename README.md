@@ -1,44 +1,42 @@
 <div align="center">
-
-```
- ██╗   ██╗ █████╗  ██████╗  ██████╗
- ╚██╗ ██╔╝██╔══██╗██╔════╝ ██╔═══██╗
-  ╚████╔╝ ███████║██║  ███╗██║   ██║
-   ╚██╔╝  ██╔══██║██║   ██║██║   ██║
-    ██║   ██║  ██║╚██████╔╝╚██████╔╝
-    ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-```
-
+  <img src="juuzou.png" width="280px"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=1200&color=8B1A3A&center=true&vCenter=true&width=500&lines=%22you+should+enjoy+the+little+detours%22;%22that%27s+where+you%27ll+find+what+matters%22;−+Ging+Freecss" alt="quote"/>
+  <h3>yago levi</h3>
+  <p>software engineering student · full stack dev in progress</p>
+  <br/>
+  <i>"you should enjoy the little detours.<br/>that's where you'll find what matters."</i>
+  <br/>
+  <sub>— ging freecss</sub>
 </div>
 
 <br/>
 
 ```
-> whoami
-  yago levi — software engineering student
-  full stack dev in progress
-  rio de janeiro, br
-
-> uname -a
-  linux · arch · hyprland
-
 > interests
-  systems / web / ai / old internet / anime
+  web · systems · ai · old internet · anime · manga
 ```
 
 <br/>
 
 <div align="center">
 
-`python` &nbsp;·&nbsp; `javascript` &nbsp;·&nbsp; `typescript` &nbsp;·&nbsp; `sql` &nbsp;·&nbsp; `html` &nbsp;·&nbsp; `css`
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=8B1A3A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=8B1A3A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=8B1A3A)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=8B1A3A)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=8B1A3A)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=8B1A3A)
 
-`flask` &nbsp;·&nbsp; `node.js` &nbsp;·&nbsp; `mysql` &nbsp;·&nbsp; `postgresql` &nbsp;·&nbsp; `nosql`
-
-`git` &nbsp;·&nbsp; `apis rest` &nbsp;·&nbsp; `poo` &nbsp;·&nbsp; `ai integration`
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=8B1A3A)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=8B1A3A)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=8B1A3A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=8B1A3A)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=8B1A3A)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=8B1A3A)
 
 </div>
 
@@ -47,7 +45,6 @@
 ```
 > ls projects/
   picly/   — anime art finder + ai image editor
-            flask · javascript · rembg · multi-api
             [ github.com/y3levi/picly ]
 ```
 
@@ -55,22 +52,20 @@
 
 <div align="center">
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=y3levi&show_icons=true&theme=transparent&hide_border=true&title_color=8B1A3A&text_color=888888&icon_color=8B1A3A&hide=stars&count_private=true&include_all_commits=true"/>
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3levi&layout=compact&theme=transparent&hide_border=true&title_color=8B1A3A&text_color=888888&langs_count=5"/>
+<img height="110em" src="https://github-readme-stats.vercel.app/api?username=y3levi&show_icons=true&theme=transparent&hide_border=true&title_color=8B1A3A&text_color=555555&icon_color=8B1A3A&hide=stars&count_private=true"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-[![linkedin](https://img.shields.io/badge/linkedin-0a0a0a?style=flat&logo=linkedin&logoColor=8B1A3A)](https://linkedin.com/in/yagoleviy3)
-
+  <a href="https://linkedin.com/in/yagoleviy3">
+    <img src="https://img.shields.io/badge/linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=8B1A3A"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-<sub>still learning. still building. that's the point.</sub>
+  <sub>still learning. still building. that's the point.</sub>
 </div>
