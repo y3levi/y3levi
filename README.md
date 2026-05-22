@@ -5,18 +5,14 @@
 </td>
 <td valign="top" padding="20">
   <br/>
-
   **Yago Levi :p**
   software engineering student · backend developer in progress
-
   <br/>
-
   *"I don't know what's right anymore,*
   *but I do know I don't want to forget this feeling."*
   <sub>— juuzou suzuya</sub>
 
   <br/>
-
   ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=8B1A3A)![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=8B1A3A)![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=8B1A3A)
   ![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=8B1A3A)![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=8B1A3A)![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=8B1A3A)![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=8B1A3A)![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=8B1A3A)
   <br/>
