@@ -4,13 +4,15 @@
   <img src="juuzou.png" width="1200px"/>
 </td>
 <td valign="top" padding="20">
-  <br/>
-  **Yago Levi :p**
-  software engineering student · backend developer in progress
-  <br/>
-  *"I don't know what's right anymore,*
-  *but I do know I don't want to forget this feeling."*
-  <sub>— juuzou suzuya</sub>
+  <br/>
+  **Yago Levi :p**
+  <br/>
+  <sub>software engineering student · backend developer in progress</sub>
+  <br/><br/>
+  *"I don't know what's right anymore,*
+  *but I do know I don't want to forget this feeling."*
+  <sub>— juuzou suzuya</sub>
+  <br/><br/>
 
   <br/>
   ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=8B1A3A)![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=8B1A3A)![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=8B1A3A)
