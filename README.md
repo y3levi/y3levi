@@ -9,8 +9,8 @@
   <br/>
   <sub>software engineering student · backend developer in progress</sub>
   <br/><br/>
-  <i>"I don't know what's right anymore,<br/>
-  but I do know I don't want to forget this feeling."</i>
+  <i>"if an angelic being fell from the sky and tried to live in this world of ours,<br/>
+   i think even they would commit many wrongs."</i>
   <br/>
   <sub>— juuzou suzuya</sub>
   <br/><br/>
